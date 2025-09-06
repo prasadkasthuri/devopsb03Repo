@@ -3,5 +3,5 @@ echo "Hello, World!"
 echo "This is script1.sh"
 echo "Current date and time: $(date)"
 echo "Listing files in the current directory:"
-ls -l
+ls -ltrh
 echo "Script execution completed."  
