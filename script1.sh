@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Hello, World!"
+echo "This is script1.sh"
+echo "Current date and time: $(date)"
+echo "Listing files in the current directory:"
+ls -l
+echo "Script execution completed."  
